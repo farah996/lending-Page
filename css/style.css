@@ -22,7 +22,7 @@ header .brand {
     display: inline-block;
 }
 
-header .page-heading h1 {
+header h1 {
     font-size: 60px;
     font-weight: bold;
     color: #fff;
@@ -30,7 +30,7 @@ header .page-heading h1 {
     margin: 0 auto;
 }
 
-header .page-heading p {
+header p {
     font-size: 18px;
     color: #fff;
     line-height: 25px;
